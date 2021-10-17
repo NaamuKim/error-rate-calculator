@@ -5,7 +5,7 @@
 #### 배경 예쁘게
 
 <p>뿌려줄 용도</p>
-<a href="awesome-calc.netlify.app/">배포된 오차율 계산기 사이트 URL</a>
+<a href="awesome-calc.netlify.app">배포된 오차율 계산기 사이트 URL</a>
 </br>
 </br>
 
