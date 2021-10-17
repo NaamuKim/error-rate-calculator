@@ -6,4 +6,7 @@
 
 <p>뿌려줄 용도</p>
 <a href="awesome-calc.netlify.app/">배포된 오차율 계산기 사이트 URL</a>
-![image](https://user-images.githubusercontent.com/83356118/137631590-e7714a32-4cd9-4ed3-8970-b8163f407862.png)
+</br>
+</br>
+
+![image](https://user-images.githubusercontent.com/83356118/137632265-ec964ee8-6d63-4f9c-9e2f-650fb47e2f6d.png)
