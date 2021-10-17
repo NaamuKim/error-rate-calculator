@@ -10,16 +10,20 @@
     <title>오차율 계산기</title>
 </head>
 <body>
+
     <div class="starBg">
             <div class="card">
                 <h3>오차율 계산기</h3>
-                <form>
-                    <label for="tv">이론값을 입력해주세요</label><input type="text" id="tv" />
-                    <label for="dv">측정값을 입력해주세요</label><input type="text" id="dv"/>
-                    <input type="submit" value="입력">
+                <form id="form">
+                    <label for="tv">이론값을 입력해주세요</label>
+                    <input type="text" id="tv" />
+                    <label for="dv">측정값을 입력해주세요</label>
+                    <input type="text" id="dv"/>
+                    <input id="btn" type="submit" value="입력">
                 </form>
                 <h3 id="result"></h3>
             </div>
     </div>
+    <script src="star.js"></script>
 </body>
 </html>
